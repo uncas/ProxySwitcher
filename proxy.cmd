@@ -1,0 +1,1 @@
+Uncas.ProxySwitcher\bin\Debug\Uncas.ProxySwitcher.exe %1
